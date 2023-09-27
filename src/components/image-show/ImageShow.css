@@ -1,0 +1,10 @@
+.image-show {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .image-show img {
+    max-width: 100%;
+    height: auto;
+  }
