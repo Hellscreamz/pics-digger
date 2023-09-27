@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pics-digger/static/css/main.85fbd54b.css",
+    "main.js": "/pics-digger/static/js/main.f77804c3.js",
+    "index.html": "/pics-digger/index.html",
+    "main.85fbd54b.css.map": "/pics-digger/static/css/main.85fbd54b.css.map",
+    "main.f77804c3.js.map": "/pics-digger/static/js/main.f77804c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85fbd54b.css",
+    "static/js/main.f77804c3.js"
+  ]
+}
